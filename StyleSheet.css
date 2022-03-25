@@ -1,0 +1,118 @@
+﻿body {
+    background-color:cadetblue;
+}
+
+.home {
+   
+    font-family:'Felix Titling';
+    color:gold;
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+#left {
+    widith: 200px;
+    height: 200px;
+    float: left;
+}
+
+#right {
+    widith: 200px;
+    height: 200px;
+    float:right;
+}
+
+ul {
+    padding: 20px;
+    margin-left: 450px;
+    margin-right: 30px;
+    list-style-type: none;
+    background: cadetblue;
+}
+
+li a {
+    float: left;
+    display: block;
+   /* margin-left:100px;*/
+    padding: 20px;
+    font-size: 20px;
+    font-family: fantasy;
+    color:darkslategray;
+}
+
+li a:link {
+    color: darkslategray;
+}
+
+li a:visited {
+    color:sienna;
+}
+
+li a:hover {
+   background-color:darkcyan;
+}
+
+iframw{
+    widith:300px;
+    height:300px;
+}
+
+h2{
+    font-family:'Times New Roman', Times, serif;
+    color:darkslategray
+}
+
+#descrizione{
+    padding:100px;
+    margin-left:-100px;
+    
+}
+
+.sinistra {
+    float: left;
+    margin: 10px;
+    width: 400px;
+    height: 300px;
+    object-fit: cover;
+}
+
+p{
+    font-family: 'Segoe UI';
+    font-size: 20px;
+
+}
+#destra {
+    float: right;
+    margin: 10px;
+    width: 400px;
+    height: 300px;
+    object-fit: cover;
+}
+
+button {
+    width: 170px;
+    height:50px;
+    border-radius: 10px;
+    background-color:aquamarine;
+    border-color:blue;
+    
+    
+}
+
+label {
+    width: 100px;
+    font-size: 20px;
+    color: darkslategray;
+    display: block;
+    
+}
+input {
+    width: 300px;
+    height: 30px;
+    color: grey;
+}
+
+
+
+
